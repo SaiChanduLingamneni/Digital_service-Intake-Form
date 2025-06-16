@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": 1,
+    "name": "Sai",
+    "email": "sai@gmail.com",
+    "phone": "(123) 456-7890",
+    "serviceType": "Consultation",
+    "description": "Initial consultation for a new project."
+  },
+  {
+    "id": 2,
+    "name": "Chandu",
+    "email": "chandu@sample.ca",
+    "phone": "(987) 654-3210",
+    "serviceType": "Support",
+    "description": "Technical support for existing software."
+  },
+  {
+    "id": 3,
+    "name": "Sai Chandu",
+    "email": "sai.chandu@test.ca",
+    "phone": "(555) 123-4567",
+    "serviceType": "Development",
+    "description": "New feature development request."
+  }
+]
+
